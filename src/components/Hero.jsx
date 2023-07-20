@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
-import { river, bwmap, worldmap } from '../assets';
+import { river } from '../assets';
 
 const Hero = () => {
   return (
